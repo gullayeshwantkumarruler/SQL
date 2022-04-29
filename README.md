@@ -2,4 +2,6 @@
 
 We will be learning all about SQL
 We Will also be using different tools to make the work easier later- https://craftsql.com/
-Reference-1: credits:techtfq :> https://techtfq.com/blog/top-20-sql-interview-questions
+credits: Reference-1: techtfq (https://techtfq.com/blog/top-20-sql-interview-questions)
+
+credits: Reference:2: xoraus(https://github.com/xoraus/CrackingTheSQLInterview/blob/master/Cracking-the-SQL-Interview.pdf)
